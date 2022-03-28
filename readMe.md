@@ -1,1 +1,1 @@
-![image](Output.png)
+![image](./Output.png)
